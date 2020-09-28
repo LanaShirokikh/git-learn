@@ -21,6 +21,11 @@ A fox is sad.
 A cat is pretty,
 A wolf is bad.
 
+This is a pig!
+It’s very big!
+Its color is pink
+Is nice, I think!
+
 A duckling is a little duck.
 A chicken is a little cock.
 A kitten is a little cat.
